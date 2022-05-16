@@ -1,0 +1,134 @@
+body {
+  color: #40515E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #005555;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #005555;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #069A8E;
+}
+
+a {
+  color: #069A8E;
+}
+
+hr {
+  border-style: dotted;
+  border-bottom: none;
+  border-width: 8px;
+  border-color: #EAF6F6;
+  height: 5px;
+  width: 5%;
+  margin: 75px auto;
+}
+
+.programmer {
+  font-weight: normal;
+}
+
+.top-container {
+  background-color: #F7FF93;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin: auto;
+  margin-bottom: 30px;
+}
+
+.bottom-container {
+
+}
+
+.profile {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 75px;
+  margin-bottom: 30px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.skill-row {
+  text-align: left;
+  margin: 100px auto 100px auto;
+  width: 50%;
+  line-height: 2;
+}
+
+.hobby-row {
+  text-align: left;
+  margin: 100px auto 100px auto;
+  width: 50%;
+  line-height: 2;
+}
+
+.hobby-row2 {
+  text-align: left;
+  margin: 100px auto 100px auto;
+  width: 50%;
+  line-height: 2;
+  margin-top: 120px;
+  margin-bottom: 30px;
+}
+
+.road-trip {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.push-up {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.giphy-embed {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.drone-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.contact-me {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.mountain {
+  margin-top: 194px;
+}
